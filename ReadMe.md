@@ -49,7 +49,7 @@ README for Selenium UI and Rest Assured API Test Cases.
    IDE: Recommended to use IntelliJ IDEA for development and running the tests.
 5. Setup Instructions
    Clone the Repository
-   git clone https://github.com/your-repository-url.git
+   git clone https://github.com/fiazlatif/airalo-ui-and-api-test.git
    cd project-directory
    Install Dependencies
    The project uses Maven for dependency management. Run the following command to install dependencies:
